@@ -1,7 +1,8 @@
 body {
   font-family: Roboto, ;
   margin: 0;
-  background-color: #1b201f;
+  background-color: #191b1a;
+
 }
 html {
   scroll-behavior: smooth;
@@ -20,7 +21,7 @@ html {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: rgb(210, 166, 1);
+  background-color: rgb(124, 124, 124);
 }
 .nav .links {
   display: flex;
@@ -70,7 +71,7 @@ html {
 /* animated logo */
 #logo {
   font-size: xx-large;
-  background-color: rgb(1, 152, 210);
+  background-color: rgb(210 166 1);
   padding: 5px;
   cursor: pointer;
   margin-left: 10px;
