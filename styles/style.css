@@ -20,7 +20,7 @@ html {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #757a80;
+  background-color: rgb(210, 166, 1);
 }
 .nav .links {
   display: flex;
@@ -39,7 +39,7 @@ html {
   transition: all 0.3s;
 }
 .nav .nav-links:hover {
-  background-color: #0198d2;
+  background-color: #3d3535;
 }
 
 /* menu-bar icon */
@@ -198,6 +198,10 @@ html {
   border-radius: 10px;
 }
 
+.card-container .download_class{
+  background-color: rgb(137, 202, 224);
+  border-radius: 5px;
+}
 .about-info a.download-btn {
   text-decoration: none;
   color: initial;
